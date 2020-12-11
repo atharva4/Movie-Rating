@@ -15,7 +15,7 @@ import tkinter.messagebox
 import pandas as pd
 import matplotlib.pyplot as plt
 
-mycon=mysqLtor.connect(user='root',passwd='atharva2000',host='localhost',charset='utf8',use_pure=True)#
+mycon=mysqLtor.connect(user='root',passwd='',host='localhost',charset='utf8',use_pure=True)#
 cursor=mycon.cursor()
 
 cursor.execute("CREATE DATABASE IF NOT EXISTS movierating")
