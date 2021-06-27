@@ -220,7 +220,6 @@ while(True):
     if(num==6):
         
         print("Made By : Atharva Dattatreya")
-        print("Sun Computers: BATCH 2019-20")
         
     if(num==7):
         break
