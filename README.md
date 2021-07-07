@@ -19,3 +19,8 @@ A system created using Python and MySQL in which user can rate movie present in 
 - First use the registration feature to get yourself registered.
 - Once registered, the user can login and rate movies.
 - The Ratings Graph feature displays ratings of multiple movies present in the database using a bar graph. 
+
+## Images
+![](images/main.jpeg)
+![](images/movieRating.jpeg)
+![](images/barGraph.jpeg)
